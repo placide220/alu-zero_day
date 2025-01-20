@@ -1,3 +1,3 @@
 
-ls to check
-pwd to chack directory u're in
+ls to check content
+rmdir to remove dir
